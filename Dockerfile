@@ -1,5 +1,4 @@
 FROM linuxserver/sabnzbd:latest
-LABEL maintainer="admin@mrobelix.de"
 MAINTAINER mrobelix <admin@mrobelix.de>
 
 # Update System
